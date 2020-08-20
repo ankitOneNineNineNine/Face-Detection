@@ -11,7 +11,7 @@ import Register from './Register';
 import ImageRecognition from './ImageRecognition'
 
 const app = new Clarifai.App({
-    apiKey: 'Your Api Key Here'
+    apiKey: 'Your API KEY'
 });
 const particlesOptions = {
     particles: {
